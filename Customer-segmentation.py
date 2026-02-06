@@ -77,5 +77,3 @@ if uploaded_file is not None:
 else:
     st.info("Upload a CSV file to get started.")
 
-#cd "C:\Users\Hema Kalai\Downloads"
-#streamlit run Customer-segmentation.py
